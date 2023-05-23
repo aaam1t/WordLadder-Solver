@@ -1,5 +1,5 @@
 # WordLadder-Solver
-A solver for the popular word game, Word Ladder
+A solver for the popular word game Word Ladder
 
 ## About the game
 Word Ladder is a popular word game invented by Lewis Carroll. You are given two words and must transform one into the other by changing one letter at a time, such that each change resutls in a valid word. You can play the game online at [fourword.xyz](https://fourword.xyz).
